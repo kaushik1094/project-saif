@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import './App.css'
 
 const ROLES = [
-  'Program Manager',
+  'Product Manager',
   'B2B Order Flow Expert',
   'Lean Six Sigma Practitioner',
   'Cross-functional Leader',
@@ -38,11 +38,11 @@ function App() {
     () => [
       {
         company: 'Dell',
-        role: 'IT Program Project Manager',
+        role: 'IT Product Manager',
         period: 'Sep 2019 — Present',
         location: 'Hyderabad, India',
         description:
-          'Leading end-to-end program management for enterprise B2B order flow initiatives across North America, EMEA, and APJ. Driving cross-functional delivery with Sales Ops, IT, Finance, and Support to scale order processing, validation, and exception handling.',
+          'Leading end-to-end product management for enterprise B2B order flow initiatives across North America, EMEA, and APJ. Driving cross-functional delivery with Sales Ops, IT, Finance, and Support to scale order processing, validation, and exception handling.',
       },
       {
         company: 'Nadal Forwarding S.L',
@@ -68,14 +68,14 @@ function App() {
     () => [
       {
         title: 'B2B Order Flow System',
-        category: 'Program @ Dell',
+        category: 'Product @ Dell',
         description:
           'Designed and implemented an enhanced B2B order flow that reduced manual interventions and increased first-pass success rates across global markets.',
-        tags: ['Program Mgmt', 'B2B', 'Process Design'],
+        tags: ['Product Mgmt', 'B2B', 'Process Design'],
       },
       {
         title: 'Unified B2B Order Status Dashboard',
-        category: 'Program @ Dell',
+        category: 'Product @ Dell',
         description:
           'Rolled out a unified dashboard with drill-down for exception analysis, reducing root-cause identification time by 50% for regional support teams.',
         tags: ['Power BI', 'Analytics', 'Operations'],
@@ -103,7 +103,7 @@ function App() {
 
   const skills = useMemo(
     () => [
-      'Program Management',
+      'Product Management',
       'Project Management',
       'B2B Order Processing',
       'Sales Operations',
@@ -164,12 +164,12 @@ function App() {
         <section className="hero">
           <p className="eyebrow">Hello! I am Saif Ahmed</p>
           <h1 className="hero-title">
-            <span className="line">Program Manager turning</span>
+            <span className="line">Product Manager turning</span>
             <span className="line gradient-text">complex problems into clean delivery.</span>
           </h1>
           <p className="hero-sub">
-            IT Program Project Manager at Dell — 7+ years building and shipping enterprise
-            programs across global markets.
+            IT Product Manager at Dell — 7+ years building and shipping enterprise
+            products across global markets.
           </p>
           <div className="typing">
             <span className="typing-prefix">I&apos;m a</span>
@@ -213,13 +213,13 @@ function App() {
         <section id="about" className="section about">
           <p className="section-eyebrow">About</p>
           <h2 className="section-title">
-            I deliver programs that
+            I build products that
             <span className="gradient-text"> connect strategy to execution.</span>
           </h2>
           <p className="about-copy">
-            I am Saif Ahmed — an IT Program Project Manager at Dell with a background spanning
+            I am Saif Ahmed — an IT Product Manager at Dell with a background spanning
             technology, marketing, and operations. I specialize in driving global B2B order
-            flow programs, partnering with Sales Operations, IT, Finance, and Support to deliver
+            flow products, partnering with Sales Operations, IT, Finance, and Support to deliver
             measurable outcomes. My toolkit includes Lean Six Sigma, agile delivery via
             Jira/Confluence, and Power BI for executive-grade reporting.
           </p>
@@ -234,7 +234,7 @@ function App() {
         <section id="experience" className="section">
           <p className="section-eyebrow">Work Experience</p>
           <h2 className="section-title">
-            7+ years across <span className="gradient-text">programs, operations, and trade.</span>
+            7+ years across <span className="gradient-text">products, operations, and trade.</span>
           </h2>
           <div className="experience-grid">
             {experiences.map((item) => (
@@ -254,7 +254,7 @@ function App() {
 
         <section id="projects" className="section">
           <p className="section-eyebrow">Featured Initiatives</p>
-          <h2 className="section-title">Selected programs and projects.</h2>
+          <h2 className="section-title">Selected products and projects.</h2>
           <div className="projects-grid">
             {projects.map((project) => (
               <article className="project-card" key={project.title}>
@@ -324,10 +324,10 @@ function App() {
         <section id="contact" className="section contact">
           <p className="section-eyebrow">Contact</p>
           <h2 className="section-title">
-            Have a program to deliver? <span className="gradient-text">Let&apos;s talk.</span>
+            Have a product to ship? <span className="gradient-text">Let&apos;s talk.</span>
           </h2>
           <p className="contact-copy">
-            Reach out for collaborations, opportunities, or to swap notes on program delivery
+            Reach out for collaborations, opportunities, or to swap notes on product delivery
             and B2B operations. I usually reply on LinkedIn the fastest.
           </p>
 

@@ -1,22 +1,22 @@
 Saif Ahmed
-IT Program Project Manager at Dell
+IT Product Manager at Dell
 Hyderabad, Telangana, India
 LinkedIn: https://www.linkedin.com/in/saifahmed46/
 
 ------------------------------------------------------------
 SUMMARY
 ------------------------------------------------------------
-IT Program Project Manager with 7+ years of experience leading
-enterprise B2B order flow programs across North America, EMEA,
+IT Product Manager with 7+ years of experience leading
+enterprise B2B order flow products across North America, EMEA,
 and APJ. Skilled in cross-functional delivery, Lean Six Sigma,
 agile execution (Jira/Confluence), and Power BI reporting.
 
 ------------------------------------------------------------
 EXPERIENCE
 ------------------------------------------------------------
-Dell — IT Program Project Manager
+Dell — IT Product Manager
 Sep 2019 - Present | Hyderabad, India
-- Led end-to-end program management for B2B order flow initiatives
+- Led end-to-end product management for B2B order flow initiatives
   across NA, EMEA, and APJ.
 - Designed and implemented an enhanced B2B Order Flow System,
   reducing manual interventions and increasing first-pass success.
@@ -54,7 +54,7 @@ CERTIFICATIONS
 ------------------------------------------------------------
 SKILLS
 ------------------------------------------------------------
-Program Management, Project Management, B2B Order Processing,
+Product Management, Project Management, B2B Order Processing,
 Sales Operations, Power BI, Jira & Confluence, Lean Six Sigma,
 Process Improvement, Stakeholder Management, Executive Reporting
 
