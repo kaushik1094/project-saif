@@ -1,0 +1,8 @@
+Saif Ahmed
+LinkedIn: https://www.linkedin.com/in/saifahmed46/
+
+Resume Placeholder
+------------------
+This is a placeholder resume file for download.
+Replace this file with the final PDF or DOCX resume while keeping the same filename
+or update the download link in src/App.jsx.
