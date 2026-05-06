@@ -2,35 +2,39 @@
   box-sizing: border-box;
 }
 
+html,
 body {
   margin: 0;
-  font-family: Inter, 'Segoe UI', Roboto, Arial, sans-serif;
-  color: #261b36;
-  background: radial-gradient(circle at top, #f5f0ff 0%, #f7f4ff 35%, #ffffff 100%);
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 #root {
   min-height: 100vh;
-  text-align: center;
 }
 
 h1,
 h2,
 h3 {
-  color: #1f1630;
-  margin-top: 0;
-}
-
-h1 {
-  font-size: clamp(2.1rem, 3.5vw, 3.2rem);
-  margin-bottom: 12px;
-}
-
-h2 {
-  margin-bottom: 10px;
+  margin: 0;
+  font-weight: 700;
 }
 
 p {
   margin: 0;
-  line-height: 1.65;
+  line-height: 1.6;
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgba(192, 132, 252, 0.35);
 }

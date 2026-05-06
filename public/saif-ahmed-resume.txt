@@ -1,8 +1,65 @@
 Saif Ahmed
+IT Program Project Manager at Dell
+Hyderabad, Telangana, India
 LinkedIn: https://www.linkedin.com/in/saifahmed46/
 
-Resume Placeholder
-------------------
-This is a placeholder resume file for download.
-Replace this file with the final PDF or DOCX resume while keeping the same filename
-or update the download link in src/App.jsx.
+------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------
+IT Program Project Manager with 7+ years of experience leading
+enterprise B2B order flow programs across North America, EMEA,
+and APJ. Skilled in cross-functional delivery, Lean Six Sigma,
+agile execution (Jira/Confluence), and Power BI reporting.
+
+------------------------------------------------------------
+EXPERIENCE
+------------------------------------------------------------
+Dell — IT Program Project Manager
+Sep 2019 - Present | Hyderabad, India
+- Led end-to-end program management for B2B order flow initiatives
+  across NA, EMEA, and APJ.
+- Designed and implemented an enhanced B2B Order Flow System,
+  reducing manual interventions and increasing first-pass success.
+- Rolled out a unified B2B order status dashboard with drill-down,
+  reducing root-cause identification time by 50%.
+- Delivered Power BI dashboards for fallout, exceptions, and FxL
+  metrics across regional teams.
+- Applied Lean Six Sigma (SIPOC, Cause-and-Effect, Control Charts)
+  to monitor quality and sustain performance.
+
+Nadal Forwarding S.L — Freight Forwarding Coordinator
+Jun 2017 - Jul 2018 | Barcelona, Spain
+- Coordinated air, sea, and land freight; managed carrier and
+  customs broker relationships.
+- Prepared shipping documentation in compliance with international
+  trade regulations.
+
+Bharat Heavy Electricals Limited (BHEL) — Summer Intern
+May 2015 - Jul 2015 | Hyderabad, India
+
+------------------------------------------------------------
+EDUCATION
+------------------------------------------------------------
+EAE Business School — Master's, Marketing Management (2017-2018)
+JNTU (MGIT) — B.Tech, Computer Science (2012-2016)
+
+------------------------------------------------------------
+CERTIFICATIONS
+------------------------------------------------------------
+- Certified Product Manager (CPM), Dell Technologies (2022)
+- Advanced Google Ads, LinkedIn (2018)
+- Inbound Marketing, HubSpot (2018)
+- AdWords Fundamentals, Google (2018)
+
+------------------------------------------------------------
+SKILLS
+------------------------------------------------------------
+Program Management, Project Management, B2B Order Processing,
+Sales Operations, Power BI, Jira & Confluence, Lean Six Sigma,
+Process Improvement, Stakeholder Management, Executive Reporting
+
+------------------------------------------------------------
+LANGUAGES
+------------------------------------------------------------
+English (Full Professional), Hindi (Full Professional),
+Telugu (Professional), Spanish (Limited Working)
